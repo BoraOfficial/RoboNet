@@ -19,7 +19,7 @@ Now, you can access the GUI by visiting 127.0.0.1:8000/?token=TOKEN
 
 Even if somebody knows the URL, nobody can access it without the token.
 
-[TOKEN IS SHOWN BELOW]
+<b>[TOKEN IS SHOWN AT THE END]</b>
 
 
 ---
