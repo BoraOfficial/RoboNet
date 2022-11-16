@@ -5,7 +5,6 @@
 ###### (This script is only meant for Windows PCs)
 ---
 ## Setup NodeJS
----
 
 For the scripts to work you need to <a href="https://nodejs.org/en/download/">install NodeJS</a>
 
