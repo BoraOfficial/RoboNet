@@ -1,4 +1,4 @@
-# Botnet
+# RoboNet
 ---
 
 ### NodeJS Botnet with built-in GUI.
