@@ -15,6 +15,7 @@ cd ./server/ && node script.js
 ```
 
 Now, you can access the GUI by visiting http://127.0.0.1:8000/?token=dS6EjKF7eYW8mdOKCX6JmKt78MdXOwn82Wpj64CC1we2yYgDcD_
+<br>
 Even if somebody knows the URL, nobody can access it without the token. 
 
 ---
