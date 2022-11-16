@@ -44,7 +44,7 @@ That is the UUID of the infected machine. Now you can execute commands on the in
 
 Enter any command you'd like and click <b>Execute</b>!
 
-<p><small>Note that the command is executed silently and the infected machine won't see it.</small></p>
+###### Note that the command is executed silently and the infected machine won't see it.
 
 ---
 
