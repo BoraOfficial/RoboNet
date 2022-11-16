@@ -2,7 +2,7 @@
 ---
 
 ### NodeJS Botnet with built-in GUI.
-###### (This script is only meant for Windows PC's)
+###### (This script is only meant for Windows PCs)
 ---
 
 ## Setup the CnCs
