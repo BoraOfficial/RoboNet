@@ -42,9 +42,9 @@ That is the UUID of the infected machine. Now you can execute commands on the in
 
 ![image](https://user-images.githubusercontent.com/94760052/202205704-c64ef50f-1650-492a-9872-6aa1078fe527.png)
 
-Enter any command you'd like and click <b>execute</b>!
+Enter any command you'd like and click <b>Execute</b>!
 
-<small>Note that the command is silent and the infected machine won't see it.</small>
+<small>Note that the command is executed silently and the infected machine won't see it.</small>
 
 ---
 
