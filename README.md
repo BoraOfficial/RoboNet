@@ -4,6 +4,12 @@
 ### NodeJS Botnet with built-in GUI.
 ###### (This script is only meant for Windows PCs)
 ---
+## Setup NodeJS
+---
+
+For the scripts to work you need to <a href="https://nodejs.org/en/download/">install NodeJS</a>
+
+---
 
 ## Setup the CnCs
 ---
