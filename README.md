@@ -14,7 +14,7 @@ To run the command and control server enter this command:
 cd ./server/ && node script.js
 ```
 
-Now, you can access the GUI by visiting 127.0.0.1:8000/?token=TOKEN
+Now, you can access the GUI by visiting 127.0.0.1:8000/?token=<b>TOKEN</b>
 <br>
 
 Even if somebody knows the URL, nobody can access it without the token.
