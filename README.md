@@ -2,7 +2,7 @@
 ---
 
 ### NodeJS Botnet with built-in GUI.
-###### (This script is only meant for Windows PCs)
+###### (This script can only infect Windows PCs)
 ---
 ## Setup NodeJS
 
